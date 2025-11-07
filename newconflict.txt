@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-version 4 from mergeconflict branch
-=======
-version 1 from main branch
->>>>>>> 4547b34 (Welcome to devops git conflict)
+git pull
